@@ -1,0 +1,8 @@
+please type command on your linux server:
+
+$ g++ -o cross.exe BaseImg.h BaseImg.cpp Bmp.h Bmp.h Dot.h Dot.cpp Photoshop_modoki.cpp
+$ mv cross.exe $_HOME/bin/cross.exe
+
+
+// Please overwrite exist 'cross.exe'.
+// (Because your distribution and I are almost different.)
