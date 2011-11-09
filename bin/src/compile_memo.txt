@@ -5,4 +5,4 @@ $ mv cross.exe $_HOME/bin/cross.exe
 
 
 // Please overwrite exist 'cross.exe'.
-// (Because your distribution and I are almost different.)
+// (Because your distribution and my are almost different.)
